@@ -4,6 +4,6 @@ name: jku-dev
 servers: 1
 agents: 4
 ports:
-- port: 80:80
+- port: 9000:80
   nodeFilters:
   - loadbalancer
